@@ -1,0 +1,22 @@
+{
+    "name": "accountNode",
+    "version": "1.0.0",
+    "description": "account Koa 2 ",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "phoebe",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Phoebe816/accountNode.git"
+    },
+    "dependencies": {
+        "koa": "2.0.0"
+    }
+}
